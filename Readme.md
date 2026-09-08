@@ -285,4 +285,4 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 | Strategy Pattern | 10% |
 | Database (3 ตาราง + FK ถูกต้อง) | 10% |
 | PDF Report | 5% |
-| **รวม** | **100%** |
+| **รวม** | **100%** |# lab8-673380418-9-sec4
